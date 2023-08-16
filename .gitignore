@@ -1,0 +1,17 @@
+*.txt
+*.doc
+*.docx
+*.pdf
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.exe
+*.lnk
+*.webp
+*.ini
+*.xls
+*.xlsx
+**/Escritorio/
+**/DATOS PANAMA/
+**/JNE 31032023/
